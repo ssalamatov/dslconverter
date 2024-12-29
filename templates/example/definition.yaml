@@ -1,0 +1,15 @@
+class:
+  name: GatewayProtocol
+  fields:
+    - name: int
+      type: int
+      default: 0
+      description: "integer"
+    - name: float
+      type: float
+      default: 0.0
+      description: "float"
+    - name: string
+      type: std::string
+      default: ""
+      description: "string"
